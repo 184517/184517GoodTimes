@@ -1,4 +1,8 @@
-﻿using System;
+/* Jordan Ross
+* March 29, 2019
+* Good Times Program
+*/
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
